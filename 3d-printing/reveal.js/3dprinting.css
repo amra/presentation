@@ -1,0 +1,8 @@
+#no-style ul {
+    list-style: none;
+}
+
+#plus li:before {
+    content: "+";
+    margin-right: 4px;
+}
