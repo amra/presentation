@@ -1,8 +1,19 @@
-#no-style ul {
-    list-style: none;
+.no-style ul {
+    list-style-type: none;
 }
 
-#plus li:before {
+.plus ul {
+    list-style-type: none;
+}
+.plus li:before {
     content: "+";
+    margin-right: 4px;
+}
+
+.minus ul {
+    list-style-type: none;
+}
+.minus li:before {
+    content: "-";
     margin-right: 4px;
 }
