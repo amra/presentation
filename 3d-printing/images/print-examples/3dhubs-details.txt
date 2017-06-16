@@ -1,0 +1,3 @@
+Marvin printed in 200 microns FDM, 100 microns FDM, SLA and Polyjet (left to right)
+https://www.3dhubs.com/knowledge-base/key-design-considerations-3d-printing
+
