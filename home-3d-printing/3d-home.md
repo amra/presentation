@@ -36,7 +36,7 @@ FIND: timeline
 - 1986: Stereolithography taken up by Charles Hull
 - 1987: First SLA-1 machine
 - 1990: First EOS Stereos system
-- 1992: FDM patent to Stratasys
+- **<span style="color:yellow">1992: FDM patent to Stratasys</span>**
 ----
 - 2006: An open source project is initiated (Reprap)
 - 2009: FDM patents in the public domain
@@ -60,6 +60,17 @@ Material Extrusion
 - bed
 - auto-leveling
 ---
+## Models
+![](3d-home/print-01-rpi-case.jpg)  <!-- .element width="20%" -->
+![](3d-home/print-02-cell-phone-stand.jpg)  <!-- .element width="20%" -->
+![](3d-home/print-03-lamp.jpg)  <!-- .element width="20%" -->
+![](3d-home/print-04-drone.jpg)  <!-- .element width="20%" -->
+![](3d-home/print-05-gramophon-horn.jpg)  <!-- .element width="20%" -->
+![](3d-home/print-06-star-wars-lightsaber.jpg)  <!-- .element width="20%" -->
+![](3d-home/print-07-go-pro-skateboard-cam.jpg)  <!-- .element width="20%" -->
+![](3d-home/print-08-squirtle.jpg)  <!-- .element width="20%" -->
+
+----
 ## Models - download
 - thingiverse
 - yourmagine
@@ -74,6 +85,7 @@ Material Extrusion
 TODO: stl -> gcode
 ---
 ## Materials
+- https://www.3dhubs.com/knowledge-base/pla-vs-abs-whats-difference?action
 - PLA
 - ABS
 - ...
@@ -82,6 +94,9 @@ TODO: stl -> gcode
 - projects
 - home things
 - design
+---
+## Print issues
+- overhangs/supports
 ---
 ## TODO
 - 3d pen
@@ -99,5 +114,12 @@ Commercial:
 - 3D Systems
 ---
 ## What to buy
+- https://www.3dhubs.com/best-3d-printer-guide
+- https://all3dp.com/1/best-3d-printer-reviews-top-3d-printers-home-3-d-printer-3d/
 - Prusa, ...
 - Not CRS-10, Tivo Tarrantula, ...
+
+---
+## Links
+- https://www.3dhubs.com/what-is-3d-printing
+- https://www.3dhubs.com/knowledge-base
