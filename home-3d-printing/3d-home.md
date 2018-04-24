@@ -5,6 +5,13 @@ revealOptions:
     transition: 'fade-out'
 
 ---
+## 3D printing at home
+
+![](3d-home/pikachu-model.png) <!-- .element width="28.5%" --> 
+![](3d-home/pikachu-slicer.png) <!-- .element width="30%" --> 
+![](3d-home/pikachu-print.png) <!-- .element width="30.5%" --> 
+
+---
 ## 3d print series
 1. **<span style="color:yellow">printing at home</span>**
 1. modeling
@@ -15,6 +22,12 @@ revealOptions:
 ---
 ## Technology tree
 ![Technology tree](3d-home/technology-tree.png)
+----
+## Technology tree FDM
+![Technology tree](3d-home/technology-tree-FDM.png) <!-- .element width="15%" -->
+<span style="color: #222">...................</span>
+![Technology tree](3d-home/technology-tree-FDM-companies.png) <!-- .element width="15%" -->
+
 ---
 ## History
 ![First 3D printer](3d-home/first-3d-printer.jpg)
@@ -71,24 +84,111 @@ Material Extrusion
 ![](3d-home/print-08-squirtle.jpg)  <!-- .element width="20%" -->
 
 ----
-## Models - download
+## Model download
 - thingiverse
 - yourmagine
 - github
 
+----
+## Modeling
+- separate presentation
+
 ---
 ## Slicer
-- Slic3r
-- Cura
-- Simplify3D
+Slicer = print planner 
 
-TODO: stl -> gcode
+![](3d-home/slicer-example.png) <!-- .element width="70%" --> 
+
+----
+Stl &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GCode
+
+![](3d-home/file-stl.png) <!-- .element width="32%" --> 
+![](3d-home/file-gcode.png) <!-- .element width="32%" --> 
+
+----
+## Slicer settings
+- material <span style="color:green">temperature, design</span>
+- layer height <span style="color:green">smaller = longer</span>
+- speed <span style="color:green">higher speed = lower quality</span>
+- print profiles
+
+----
+## Slicer settings example
+![](3d-home/slicer-slic3r-settings.jpg) <!-- .element width="40%" --> 
+![](3d-home/slicer-slic3r-settings-advance.png) <!-- .element width="40%" --> 
+
+----
+## Slicers
+
+Slic3r &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Slic3r PE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cura &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Simplify3D 
+
+![](3d-home/slicer-logo-slic3r.png)  <!-- .element width="20%" --> 
+![](3d-home/slicer-logo-slic3r-prusa.png) <!-- .element width="20%" --> 
+![](3d-home/slicer-logo-cura.png) <!-- .element width="20%" --> 
+![](3d-home/slicer-logo-Simplify3D.jpeg) <!-- .element width="20%" -->
+
 ---
 ## Materials
-- https://www.3dhubs.com/knowledge-base/pla-vs-abs-whats-difference?action
+
+![](3d-home/material-lion.jpg) <!-- .element width="80%" -->
+
+----
+## Material basics
+<img style="float: right; width: 60%" src="3d-home/material-test.jpg">
+
 - PLA
 - ABS
-- ...
+- Nylon 
+   - (moisture)
+- PET
+- PETG
+- ASA
+
+----
+## Flexible
+- TPE, TPU
+- 98A, 92A
+
+![](3d-home/material-flexible.jpg) <!-- .element width="40%" -->
+![](3d-home/material-flexible2.jpg) <!-- .element width="42%" -->
+
+----
+## Supports
+- PVA
+- HIPS
+- Multimaterial printers
+
+![](3d-home/material-support3.jpg) <!-- .element width="40%" -->
+![](3d-home/material-support2.jpg) <!-- .element width="40%" -->
+
+----
+## Mixture - wood
+
+![](3d-home/material-wood.jpg) <!-- .element width="60%" -->
+
+----
+## Mixture - metal
+- metal: brass, copper, iron
+- (weight)
+
+![](3d-home/material-metal.png) <!-- .element width="45%" -->
+![](3d-home/material-iron.jpg) <!-- .element width="40%" -->
+
+
+----
+## Special
+- color changing
+- fire retardant
+
+![](3d-home/material-thermo.jpg) <!-- .element width="40%" -->
+![](3d-home/material-fire-retardant.jpg) <!-- .element width="42.5%" -->
+
+----
+## Special
+- glow in the dark
+
+![](3d-home/material-glow.jpg) <!-- .element width="40%" -->
+
 ---
 ## Usage
 - projects
