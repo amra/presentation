@@ -57,21 +57,17 @@ FIND: timeline
 - 2011: Cornell University began to build 3D food printer.
 - 2013: “3D printing” in Obama’s State of the Union speech
 - 2015: Carbon 3D issues their revolutionary ultra-fast CLIP 3D printing machine
+
 ---
 ## FDM schematic
 ![Hot end extruding](3d-home/fdm-technology.jpg)
----
+
+----
 ## Detail
+Material Extrusion
+
 ![Hot end extruding](3d-home/hot-end-extruding.jpg) <!-- .element width="70%" -->
 
-Material Extrusion
----
-## Parts
-- Frame
-- Electronics
-- Extruder
-- bed
-- auto-leveling
 ---
 ## Models
 ![](3d-home/print-01-rpi-case.jpg)  <!-- .element width="20%" -->
@@ -133,6 +129,11 @@ Slic3r &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Slic3r PE &nbsp;&n
 ![](3d-home/material-lion.jpg) <!-- .element width="80%" -->
 
 ----
+## Material properties
+
+![](3d-home/material-properties.png) <!-- .element width="45%" -->
+
+----
 ## Material basics
 <img style="float: right; width: 60%" src="3d-home/material-test.jpg">
 
@@ -143,6 +144,9 @@ Slic3r &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Slic3r PE &nbsp;&n
 - PET
 - PETG
 - ASA
+- Carbon fiber
+
+Note: https://www.simplify3d.com/support/materials-guide/   https://blog.tinkercad.com/materialsguide/
 
 ----
 ## Flexible
@@ -156,7 +160,7 @@ Slic3r &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Slic3r PE &nbsp;&n
 ## Supports
 - PVA
 - HIPS
-- Multimaterial printers
+- (multimaterial printer required)
 
 ![](3d-home/material-support3.jpg) <!-- .element width="40%" -->
 ![](3d-home/material-support2.jpg) <!-- .element width="40%" -->
@@ -189,14 +193,86 @@ Slic3r &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Slic3r PE &nbsp;&n
 
 ![](3d-home/material-glow.jpg) <!-- .element width="40%" -->
 
+
+----
+## Filament maker
+TODO
+
+Filastrooder
+
 ---
 ## Usage
 - projects
 - home things
 - design
+
 ---
 ## Print issues
 - overhangs/supports
+
+---
+## Parts
+- Frame/type
+- Electronics
+- Extruder
+- bed
+- auto-leveling
+
+----
+## Type: Cartersian
+
+![](3d-home/printer-prusa-mk2.png) <!-- .element width="40%" -->
+![](3d-home/printer-ultimaker.jpg) <!-- .element width="40%" -->
+
+----
+## Type: Delta
+
+![](3d-home/printer-SeeMeCNC-Rostock.jpg) <!-- .element width="40%" -->
+
+----
+## Electronics
+RAMPS <span style="display:inline-block; width: 100px;"></span> Rambo Einsy <span style="display:inline-block; width: 100px;"></span> Duet
+
+![](3d-home/electronics-ramps.jpg) <!-- .element width="30%" -->
+![](3d-home/electronics-rambo-einsy.jpg) <!-- .element width="30%" -->
+![](3d-home/electronics-duet.jpg) <!-- .element width="30%" -->
+
+----
+## Firmware
+Marlin
+
+![](3d-home/firmware-marlin-logo.png) <!-- .element width="30%" -->
+![](3d-home/firmware-marlin-configuration.jpg) <!-- .element width="60%" -->
+
+----
+## Extruder
+
+![](3d-home/parts-extruder-prusa.png) <!-- .element width="40%" -->
+![](3d-home/parts-extruder-titan.jpg) <!-- .element width="40%" -->
+
+----
+## Hot end
+![](3d-home/parts-hotend-e3d.png) <!-- .element width="40%" -->
+![](3d-home/parts-hotend-kraken.jpg) <!-- .element width="40%" -->
+
+
+----
+## Nozzle
+<img style="float: right; width: 20%" src="3d-home/parts-nozzle-ruby.jpg">
+<img style="float: right; width: 20%" src="3d-home/parts-nozzle-015.jpg"> 
+
+Hole: 0.15-1.2mm 
+
+- brass
+- copper
+<img style="float: right; width: 20%" src="3d-home/parts-nozzle-set.jpg">
+<img style="float: right; width: 20%" src="3d-home/print-thick-layers.jpg">
+- ruby
+- hardened steel
+- stainless
+
+
+
 ---
 ## TODO
 - 3d pen
