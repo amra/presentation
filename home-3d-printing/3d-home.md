@@ -7,9 +7,9 @@ revealOptions:
 ---
 ## 3D printing at home
 
-![](3d-home/pikachu-model.png) <!-- .element width="28.5%" --> 
-![](3d-home/pikachu-slicer.png) <!-- .element width="30%" --> 
-![](3d-home/pikachu-print.png) <!-- .element width="30.5%" --> 
+![](3d-home/pikachu-model.png) <!-- .element width="28.5%" -->
+![](3d-home/pikachu-slicer.png) <!-- .element width="30%" -->
+![](3d-home/pikachu-print.png) <!-- .element width="30.5%" -->
 
 ---
 ## 3d print series
@@ -91,15 +91,15 @@ Material Extrusion
 
 ---
 ## Slicer
-Slicer = print planner 
+Slicer = print planner
 
-![](3d-home/slicer-example.png) <!-- .element width="70%" --> 
+![](3d-home/slicer-example.png) <!-- .element width="70%" -->
 
 ----
 Stl &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GCode
 
-![](3d-home/file-stl.png) <!-- .element width="32%" --> 
-![](3d-home/file-gcode.png) <!-- .element width="32%" --> 
+![](3d-home/file-stl.png) <!-- .element width="32%" -->
+![](3d-home/file-gcode.png) <!-- .element width="32%" -->
 
 ----
 ## Slicer settings
@@ -110,17 +110,17 @@ Stl &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 ----
 ## Slicer settings example
-![](3d-home/slicer-slic3r-settings.jpg) <!-- .element width="40%" --> 
-![](3d-home/slicer-slic3r-settings-advance.png) <!-- .element width="40%" --> 
+![](3d-home/slicer-slic3r-settings.jpg) <!-- .element width="40%" -->
+![](3d-home/slicer-slic3r-settings-advance.png) <!-- .element width="40%" -->
 
 ----
 ## Slicers
 
-Slic3r &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Slic3r PE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cura &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Simplify3D 
+Slic3r &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Slic3r PE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cura &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Simplify3D
 
-![](3d-home/slicer-logo-slic3r.png)  <!-- .element width="20%" --> 
-![](3d-home/slicer-logo-slic3r-prusa.png) <!-- .element width="20%" --> 
-![](3d-home/slicer-logo-cura.png) <!-- .element width="20%" --> 
+![](3d-home/slicer-logo-slic3r.png)  <!-- .element width="20%" -->
+![](3d-home/slicer-logo-slic3r-prusa.png) <!-- .element width="20%" -->
+![](3d-home/slicer-logo-cura.png) <!-- .element width="20%" -->
 ![](3d-home/slicer-logo-Simplify3D.jpeg) <!-- .element width="20%" -->
 
 ---
@@ -139,7 +139,7 @@ Slic3r &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Slic3r PE &nbsp;&n
 
 - PLA
 - ABS
-- Nylon 
+- Nylon
    - (moisture)
 - PET
 - PETG
@@ -196,9 +196,8 @@ Note: https://www.simplify3d.com/support/materials-guide/   https://blog.tinkerc
 
 ----
 ## Filament maker
-TODO
-
-Filastrooder
+![](3d-home/filament-maker-strooder.jpg) <!-- .element width="40%" -->
+![](3d-home/filament-maker-pellets.jpg) <!-- .element width="40%" -->
 
 ---
 ## Usage
@@ -207,16 +206,30 @@ Filastrooder
 - design
 
 ---
+## Print - overhangs/supports
+![](3d-home/overhangs-fail.jpg) <!-- .element width="38%" -->
+![](3d-home/overhangs-print.jpg) <!-- .element width="57%" -->
+
+----
 ## Print issues
-- overhangs/supports
+![](3d-home/problem-Blobs-And-Zits.jpg) <!-- .element width="20%" -->
+![](3d-home/problem-Grinding-Or-Stripped-Filament.jpg) <!-- .element width="20%" -->
+![](3d-home/problem-Layer-Shifting.jpg) <!-- .element width="20%" -->
+![](3d-home/problem-Layers-Splitting-Or-Cracking.jpg) <!-- .element width="20%" -->
+![](3d-home/problem-Over-Extruding.jpg) <!-- .element width="20%" -->
+![](3d-home/problem-Over-Heating.jpg) <!-- .element width="20%" -->
+![](3d-home/problem-Print-Not-Sticking-To-Bed.jpg) <!-- .element width="20%" -->
+![](3d-home/problem-Under-Extruding.jpg) <!-- .element width="20%" -->
 
 ---
 ## Parts
-- Frame/type
+<img style="float: right; width: 60%" src="3d-home/printer-schema.png">
+- Type
+- Frame
 - Electronics
 - Extruder
 - bed
-- auto-leveling
+- auto bed leveling
 
 ----
 ## Type: Cartersian
@@ -259,9 +272,9 @@ Marlin
 ----
 ## Nozzle
 <img style="float: right; width: 20%" src="3d-home/parts-nozzle-ruby.jpg">
-<img style="float: right; width: 20%" src="3d-home/parts-nozzle-015.jpg"> 
+<img style="float: right; width: 20%" src="3d-home/parts-nozzle-015.jpg">
 
-Hole: 0.15-1.2mm 
+Hole: 0.15-1.2mm
 
 - brass
 - copper
@@ -274,9 +287,9 @@ Hole: 0.15-1.2mm
 
 
 ---
-## TODO
-- 3d pen
-
+## 3d pen
+![](3d-home/pen-example.jpg) <!-- .element width="40%" -->
+![](3d-home/pen-3doodler.jpg) <!-- .element width="40%" -->
 ---
 ## Companies in 3d printing
 Open source:
@@ -289,7 +302,21 @@ Commercial:
 - Stratasys
 - 3D Systems
 ---
-## What to buy
+## What to buy - Prusa i3 MK3
+![](3d-home/printer-prusa-mk3.jpg) <!-- .element width="40%" -->
+![](3d-home/printer-prusa-mk3-mm.jpg) <!-- .element width="40%" -->
+
+speed, low noise, bed leveling, upgrade kits,
+magnetic heatbed with replaceable PEI spring steel, ...
+
+----
+## China
+Creativity CR-10 <span style="display:inline-block; width: 150px;"></span> Anet A8
+
+![](3d-home/printer-cr-10.jpg) <!-- .element width="40%" -->
+![](3d-home/printer-anet-a8.jpg) <!-- .element width="40%" -->
+
+----
 - https://www.3dhubs.com/best-3d-printer-guide
 - https://all3dp.com/1/best-3d-printer-reviews-top-3d-printers-home-3-d-printer-3d/
 - Prusa, ...
