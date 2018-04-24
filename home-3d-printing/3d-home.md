@@ -205,6 +205,22 @@ Note: https://www.simplify3d.com/support/materials-guide/   https://blog.tinkerc
 - home things
 - design
 
+----
+## Design: Bird Feeder
+![](3d-home/model-bird-feeder.jpg) <!-- .element width="60%" -->
+
+----
+## Enabling the future
+![](3d-home/models-enabling.jpg) <!-- .element width="80%" -->
+
+----
+## OpenROV
+![](3d-home/models-openrov.jpg) <!-- .element width="80%" -->
+
+----
+## InMoov
+![](3d-home/models-inmoov.jpg) <!-- .element width="80%" -->
+
 ---
 ## Print - overhangs/supports
 ![](3d-home/overhangs-fail.jpg) <!-- .element width="38%" -->
