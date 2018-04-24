@@ -284,7 +284,10 @@ Hole: 0.15-1.2mm
 - hardened steel
 - stainless
 
-
+----
+## Remote access: octoprint
+![](3d-home/parts-rpi.jpg)  <!-- .element width="45%" -->
+![](3d-home/parts-octoprint.png)  <!-- .element width="47%" -->
 
 ---
 ## 3d pen
