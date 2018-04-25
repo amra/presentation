@@ -13,9 +13,9 @@ revealOptions:
 
 ---
 ## 3d print series
-1. **<span style="color:yellow">printing at home</span>**
-1. modeling
-1. print technologies
+1. **<span style="color:yellow">Printing at home</span>**
+1. Modeling
+1. Print technologies
 ---
 ## 3D print = 2d print in layers
 <video  src="3d-home/teleport-animation.webm" controls data-autoplay loop></video>
@@ -27,6 +27,28 @@ revealOptions:
 ![Technology tree](3d-home/technology-tree-FDM.png) <!-- .element width="15%" -->
 <span style="color: #222">...................</span>
 ![Technology tree](3d-home/technology-tree-FDM-companies.png) <!-- .element width="15%" -->
+
+---
+## Usage
+- Projects
+- Home things
+- Design
+
+----
+## Design: Bird Feeder
+![](3d-home/model-bird-feeder.jpg) <!-- .element width="60%" -->
+
+----
+## Enabling the future
+![](3d-home/models-enabling.jpg) <!-- .element width="80%" -->
+
+----
+## OpenROV
+![](3d-home/models-openrov.jpg) <!-- .element width="80%" -->
+
+----
+## InMoov
+![](3d-home/models-inmoov.jpg) <!-- .element width="80%" -->
 
 ---
 ## History
@@ -44,19 +66,16 @@ FIND: timeline
 -->
 ----
 
-- 1980: first patent by japanese Dr Kodama Rapid prototyping
+- 1980: First patent by japanese Dr Kodama
 - 1984: Stereolithography by french then abandoned
 - 1986: Stereolithography taken up by Charles Hull
 - 1987: First SLA-1 machine
-- 1990: First EOS Stereos system
 - **<span style="color:yellow">1992: FDM patent to Stratasys</span>**
 ----
 - 2006: An open source project is initiated (Reprap)
 - 2009: FDM patents in the public domain
 - 2009: MakerBot was founded
-- 2011: Cornell University began to build 3D food printer.
 - 2013: “3D printing” in Obama’s State of the Union speech
-- 2015: Carbon 3D issues their revolutionary ultra-fast CLIP 3D printing machine
 
 ---
 ## FDM schematic
@@ -81,13 +100,13 @@ Material Extrusion
 
 ----
 ## Model download
-- thingiverse
-- yourmagine
-- github
+- Thingiverse
+- Yourmagine
+- GitHub
 
 ----
 ## Modeling
-- separate presentation
+- Next presentation
 
 ---
 ## Slicer
@@ -103,10 +122,10 @@ Stl &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 ----
 ## Slicer settings
-- material <span style="color:green">temperature, design</span>
-- layer height <span style="color:green">smaller = longer</span>
-- speed <span style="color:green">higher speed = lower quality</span>
-- print profiles
+- Material <span style="color:green">temperature, design</span>
+- Layer height <span style="color:green">smaller = longer</span>
+- Speed <span style="color:green">higher speed = lower quality</span>
+- Print profiles
 
 ----
 ## Slicer settings example
@@ -128,10 +147,6 @@ Slic3r &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Slic3r PE &nbsp;&n
 
 ![](3d-home/material-lion.jpg) <!-- .element width="80%" -->
 
-----
-## Material properties
-
-![](3d-home/material-properties.png) <!-- .element width="45%" -->
 
 ----
 ## Material basics
@@ -149,6 +164,11 @@ Slic3r &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Slic3r PE &nbsp;&n
 Note: https://www.simplify3d.com/support/materials-guide/   https://blog.tinkercad.com/materialsguide/
 
 ----
+## Material properties
+
+![](3d-home/material-properties.png) <!-- .element width="45%" -->
+
+----
 ## Flexible
 - TPE, TPU
 - 98A, 92A
@@ -157,7 +177,7 @@ Note: https://www.simplify3d.com/support/materials-guide/   https://blog.tinkerc
 ![](3d-home/material-flexible2.jpg) <!-- .element width="42%" -->
 
 ----
-## Supports
+## Dissolvable Supports
 - PVA
 - HIPS
 - (multimaterial printer required)
@@ -172,7 +192,7 @@ Note: https://www.simplify3d.com/support/materials-guide/   https://blog.tinkerc
 
 ----
 ## Mixture - metal
-- metal: brass, copper, iron
+- Metal: brass, copper, iron
 - (weight)
 
 ![](3d-home/material-metal.png) <!-- .element width="45%" -->
@@ -181,15 +201,15 @@ Note: https://www.simplify3d.com/support/materials-guide/   https://blog.tinkerc
 
 ----
 ## Special
-- color changing
-- fire retardant
+- Color changing
+- Fire retardant
 
 ![](3d-home/material-thermo.jpg) <!-- .element width="40%" -->
 ![](3d-home/material-fire-retardant.jpg) <!-- .element width="42.5%" -->
 
 ----
 ## Special
-- glow in the dark
+- Glow in the dark
 
 ![](3d-home/material-glow.jpg) <!-- .element width="40%" -->
 
@@ -198,28 +218,6 @@ Note: https://www.simplify3d.com/support/materials-guide/   https://blog.tinkerc
 ## Filament maker
 ![](3d-home/filament-maker-strooder.jpg) <!-- .element width="40%" -->
 ![](3d-home/filament-maker-pellets.jpg) <!-- .element width="40%" -->
-
----
-## Usage
-- projects
-- home things
-- design
-
-----
-## Design: Bird Feeder
-![](3d-home/model-bird-feeder.jpg) <!-- .element width="60%" -->
-
-----
-## Enabling the future
-![](3d-home/models-enabling.jpg) <!-- .element width="80%" -->
-
-----
-## OpenROV
-![](3d-home/models-openrov.jpg) <!-- .element width="80%" -->
-
-----
-## InMoov
-![](3d-home/models-inmoov.jpg) <!-- .element width="80%" -->
 
 ---
 ## Print - overhangs/supports
@@ -244,8 +242,8 @@ Note: https://www.simplify3d.com/support/materials-guide/   https://blog.tinkerc
 - Frame
 - Electronics
 - Extruder
-- bed
-- auto bed leveling
+- Bed
+- Auto bed leveling
 
 ----
 ## Type: Cartersian
@@ -335,13 +333,9 @@ Creativity CR-10 <span style="display:inline-block; width: 150px;"></span> Anet 
 ![](3d-home/printer-cr-10.jpg) <!-- .element width="40%" -->
 ![](3d-home/printer-anet-a8.jpg) <!-- .element width="40%" -->
 
-----
-- https://www.3dhubs.com/best-3d-printer-guide
-- https://all3dp.com/1/best-3d-printer-reviews-top-3d-printers-home-3-d-printer-3d/
-- Prusa, ...
-- Not CRS-10, Tivo Tarrantula, ...
-
 ---
 ## Links
+- https://www.3dhubs.com/best-3d-printer-guide
+- https://all3dp.com/1/best-3d-printer-reviews-top-3d-printers-home-3-d-printer-3d/
 - https://www.3dhubs.com/what-is-3d-printing
 - https://www.3dhubs.com/knowledge-base
