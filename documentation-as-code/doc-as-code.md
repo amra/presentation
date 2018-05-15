@@ -3,40 +3,67 @@ title: Documentation as code
 author: Marek Hudik
 ---
 
-# Overview
+# Doc as code
+- markdown
 - git
 - git flow
-- markdown
 - build
 
 ---
-# Git
-- history
-- usage
-- https://www.atlassian.com/git/tutorials/making-a-pull-request#how-it-works
+<img src="images/markdown-icon.png" style="float: right; width: 15%; background-color: white;"/>
+# Markdown
+- text &rarr; html
+- lightweight markup language
+- flavors
 ----
-# What is VCS
-- tracks changes over time
-- team (cooperation; prevent conflicts)
-
-Note: https://www.atlassian.com/git/tutorials/what-is-version-control
-----
-# Why git
+# .md example
+<img src="images/markdown-example.png" style="width: 70%"/>
+Note: https://medium.com/@taylorhxu/markdown-for-dummies-a24e982b8e85
+---
 <img src="images/git.png" style="float: right; width: 20%"/>
-- standard
+# Git
+- tracks changes
+  - atomic
+- text
+----
+# Git detail
+- feature branches
+- team
 - distributed VCS
 ---
 # Git flow
-<img src="images/git-workflow.svg" style="width: 70%"/>
+<img src="images/git-workflow.png" style="width: 70%"/>
 
 Note: https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+----
+# Git pull request
+<img src="images/Github-WorkFlow-Tips-Crunchify-Tips.png" style="width: 70%"/>
+
+Note: https://crunchify.com/how-to-fork-github-repository-create-pull-request-and-merge/
 ---
-# Markdown
-- Overview
-- issues
+# Learning Git
+- online: https://www.atlassian.com/git/tutorials
+- book: https://git-scm.com/book/en/v2
+- youtube
+  - https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw
+- courses
+  - https://www.lynda.com/search?q=git
+  - https://www.coursera.org/learn/version-control-with-git
+  - https://www.udemy.com/courses/search/?ref=home&src=ukw&q=git
+---
+# Git tools
+- command line
+- GUI - GitKraken
+- GUI plugins
+  - Visual Studio Code
+  - Atom
+  - Intellij Idea
 ---
 # Build
+- html, pdf
+- docker, pandoc
+
+# Build details
 - git hook
 - jenkins, trevis-ci, circle-ci
-- html, pdf
 - deployment to S3, ...
